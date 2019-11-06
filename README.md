@@ -1,3 +1,3 @@
 # JSLS
-#H
-Student, interested in verillog C/C++ python
+Hello GitHub!
+Student, interested in verilog C/C++ python
